@@ -1,1 +1,1 @@
-console.log('Forgot Password');
+console.log(100);
